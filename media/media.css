@@ -1,0 +1,335 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+/* navbar */
+.menu {
+	text-align: center;
+}
+.dot {
+	display: none;
+}
+
+.top-link ul li p {    
+    padding: 7px 9px;
+}
+.h-t-p {
+    padding-right: 10px;
+}
+/* navbar */
+
+/* banner */
+.banner-content {
+    padding: 30px 0;
+}
+/* banner */
+/* about us */
+#about-us {
+    padding: 50px 0;
+}
+.about-us h1 {    
+    font-size: 28px;
+}
+.about-us h2{
+	padding: 10px 0 0px;
+}
+.au-text h2 {    
+    font-size: 19px;
+}
+.au-text p {
+    padding-bottom: 10px;
+}
+/* about us */
+/* approch start here */
+#our-approch{
+    padding: 50px 0;
+}
+.approch-image {
+    padding-top: 20px;
+}
+.approch-image2 {
+    padding-top: 20px;
+}
+.approch-date {    
+    display: none;
+}
+.approch-date2 {    
+    display: none;
+}
+.approch-content {
+    padding: 35px 54px 35px 15px;
+}
+.approch-content2 {
+    padding: 35px 54px 35px 15px;
+    text-align:left;
+}
+
+/* approch end here */
+/* work start here */
+#work{
+    background-color: #de2b24;
+    padding: 50px 0;
+}
+.g-content {
+    top: 80px;
+    left: 114px;
+}
+/* work end here */
+ /* analysis start here */
+#facebook-analysis {
+    padding: 50px 0;
+}
+.f-card p {  
+    padding: 20px 20px 20px;
+}
+.analysis-form {
+    padding: 20px 30px;
+}
+
+.a-button {    
+    padding: 12px 35px;    
+}
+    /* analysis end here */
+    /* footer start here */
+#footer{
+    padding: 50px 0;
+}
+.s-button {
+    margin-bottom: 30px;
+}
+    /* footer end here */
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* navbar */
+.menu {
+	text-align: center;
+}
+.dot {
+	display: none;
+}
+/* navbar */
+/* banner */
+.banner-content {
+    padding: 81px 0;
+}
+/* banner */
+/* about us */
+#about-us {
+    padding: 50px 0;
+}
+.about-us h1 { 
+    font-size: 28px;
+}
+.au-text h2 {    
+    font-size: 19px;
+}
+/* about us */
+
+/* approch start here */
+#our-approch{
+    padding: 50px 0;
+}
+.approch-image {
+    padding-top: 20px;
+}
+.approch-image2 {
+    padding-top: 20px;
+}
+.approch-date {    
+    display: none;
+}
+.approch-date2 {    
+    display: none;
+}
+.approch-content {
+    padding: 35px 54px 35px 54px;
+}
+.approch-content2 {
+    padding: 35px 54px 35px 54px;
+    text-align:left;
+}
+
+/* approch end here */
+/* work start here */
+#work{
+    background-color: #de2b24;
+    padding: 50px 0;
+}
+#work{
+    background-color: #de2b24;
+    padding: 50px 0;
+}
+
+.g-content {
+    top: 80px;
+    left: 100px;
+}
+.g-content h1 {    
+    font-size: 20px;
+}
+.g-content h2 {    
+    font-size: 15px;
+}
+.g-content i {    
+    font-size: 28px;
+}
+    /* work end here */
+    /* analysis start here */
+#facebook-analysis {
+    padding: 50px 0;
+}
+.f-card p {  
+    padding: 20px 20px 20px;
+}
+.analysis-form {
+    padding: 20px 30px;
+}
+
+.a-button {    
+    padding: 12px 35px;    
+}
+    /* analysis end here */
+    /* footer start here */
+#footer{
+    padding: 50px 0;
+}
+.s-button {
+   margin-bottom: 45px;
+}
+    /* footer end here */
+
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* navbar */
+.menu {
+	text-align: center;
+}
+.dot {
+	display: none;
+}
+/* navbar */
+
+/* banner */
+.banner-content {
+    padding: 81px 0;
+}
+/* banner */
+/* about us */
+#about-us {
+    padding: 50px 0;
+}
+.about-us h1 {    
+    font-size: 30px;
+}
+.au-text h2 {    
+    font-size: 19px;
+}
+/* about us */
+/* approch start here */
+#our-approch{
+    padding: 50px 0;
+}
+.approch-date {    
+    display: none;
+}
+.approch-date2 {    
+    display: none;
+}
+.approch-content {
+    padding: 10px;
+}
+.approch-content2 {
+    padding: 10px;
+}
+/* approch end here */
+/* work start here */
+#work{
+    background-color: #de2b24;
+    padding: 50px 0;
+}
+
+.g-content {
+    top: 12px;
+    left: 9px;
+}
+.g-content h1 {    
+    font-size: 20px;
+}
+.g-content h2 {    
+    font-size: 15px;
+}
+.g-content i {    
+    font-size: 28px;
+}
+    /* work end here */
+/* analysis start here */
+#facebook-analysis {
+    padding: 50px 0;
+}
+.f-card p {  
+    padding: 20px 20px 20px;
+}
+.analysis-form {
+    padding: 20px 30px;
+}
+
+.a-button {    
+    padding: 12px 35px;    
+}
+    /* analysis end here */
+    /* footer start here */
+#footer{
+    padding: 50px 0;
+}
+.s-button {
+   margin-bottom: 45px;
+}
+    /* footer end here */
+
+
+
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* approch start here */
+.approch-date {    
+    top: 44px;    
+    
+}
+.approch-date2 {
+    top: 44px;
+    left: 590px;        
+}
+.approch-content {
+    padding: 50px 70px 0px 80px;
+}
+.approch-content2 {
+    padding: 50px 70px 0px 80px;
+}
+    /* approch end here */
+    /* work start here */
+.g-content {
+    top: 30px;
+    left: 27px;
+}
+.g-content h1 {    
+    font-size: 22px;
+}
+.g-content h2 {    
+    font-size: 16px;
+}
+.g-content i {    
+    font-size: 28px;
+}
+    /* work end here */
+    /* analysis start here */
+.
+    /* analysis end here */
+
+
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
